@@ -1,1 +1,5 @@
 # Tableau_EDA_Retail_SparksInternship_-GRIPDEC2020
+
+CLICK THE LINK BELOW TO SEE THE DATA VISUALIZATIONS:
+
+https://youtu.be/IJoJcIcNlE0
